@@ -1,2 +1,2 @@
 # Robotics-Project
-Kinematics and dynamics of viper650 robot
+Calculate forward & inverse kinematics and forward dynamics of viper650 robot using matlab & solidworks
